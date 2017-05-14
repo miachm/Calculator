@@ -12,6 +12,6 @@ You can use some maths functions like sin,cos,tan... There are some constats def
 
 # About
 
-This code was a proof of concept. It was done some years ago (2013?). I hadn't even started my degree yet, so you won't see any popular algorithm for this problem. Instead, there are a lot of work arounds for try to solve the problem.  
+This code was a proof of concept. It was done some years ago (2013?). I hadn't even started my degree yet, so you won't see any popular algorithm. Instead, there are a lot of work arounds for try to solve the problem.  
   
 But... It works great! Even when you don't know the theory, you can find a solution with cleverness. That's why i like this code.
