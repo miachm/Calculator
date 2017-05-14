@@ -5,8 +5,6 @@ This is a calculator where you can enter an expresion to be evaluated. For examp
 > 3+2*3-(1+1)  
 > The result is 7
 
-It will return 7.
-
 You can use some maths functions like sin,cos,tan... There are some constats defined aswell (pi, euler...)
 
 > sin(pi) + 3 - euler * (4 - 2)  
